@@ -1,2 +1,1 @@
-# ietf-wg-masque.github.io
-IETF MASQUE Working Group web page
+# IETF MASQUE Working Group web page
