@@ -15,4 +15,3 @@ This Working Group has no officially adopted documents yet. Check out <a href="h
 
 * [QUIC](https://quicwg.org/)
 
-----
