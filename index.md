@@ -5,7 +5,7 @@ title: MASQUE Working Group
 
 ## Upcoming Meetings
 
-<a href="https://github.com/ietf-wg-masque/wg-materials/blob/master/ietf108/agenda.md">IETF 108, Tuesday, July 28, 2020</a>
+<a href="https://github.com/ietf-wg-masque/wg-materials/blob/master/ietf109/agenda.md">IETF 109, Tuesday, November 20, 2020</a>
 
 ## Documents
 
