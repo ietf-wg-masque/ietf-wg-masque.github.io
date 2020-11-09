@@ -16,9 +16,9 @@ Our current Working Group documents are below.
 
 Check out <a href="https://datatracker.ietf.org/wg/masque/documents/">the list of related documents</a> to get a sense for what else is coming.
 
-## Related Work
+## Related IETF Work
 
-* [QUIC](https://quicwg.org/)
-* [HTTP](https://httpwg.org/)
-* [TLS](https://tlswg.org/)
+* [QUIC](https://quicwg.org/): Delivering the next transport protocol for the Internet.
+* [HTTP](https://httpwg.org/): Maintains and develops the Hypertext Transfer Protocol, the core protocol of the World Wide Web.
+* [TLS](https://tlswg.org/): Maintains and develops the Transport Layer Security Protocol, the core security protocol of the Internet.
 
