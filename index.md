@@ -3,9 +3,11 @@ layout: front
 title: MASQUE Working Group
 ---
 
-## Upcoming Meetings
+## Upcoming Events
 
-<a href="https://github.com/ietf-wg-masque/wg-materials/blob/master/ietf109/agenda.md">IETF 109, Tuesday, November 20, 2020</a>
+MASQUE will meet on Tuesday, November 20, 2020 during [IETF 109](https://www.ietf.org/how/meetings/109/). The [agenda can be found here](https://github.com/ietf-wg-masque/wg-materials/blob/master/ietf109/agenda.md). 
+
+Prior to the meeting, MASQUE participants will partake in the virtual hackathon. [Details can be found here](https://github.com/ietf-wg-masque/wg-materials/blob/master/hackathons/ietf109.md).
 
 ## Documents
 
