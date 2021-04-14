@@ -5,7 +5,7 @@ title: MASQUE Working Group
 
 ## Upcoming Events
 
-The next WG meeting will take place virtually during [IETF 110](https://www.ietf.org/how/meetings/110/).
+The next WG meeting will take place during [IETF 111](https://www.ietf.org/how/meetings/111/).
 
 The last MASQUE WG meeting took place virtually [on Tuesday, January 12](https://github.com/ietf-wg-masque/wg-materials/blob/master/interim-21-01/agenda.md). 
 
