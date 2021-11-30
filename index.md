@@ -5,7 +5,7 @@ title: MASQUE Working Group
 
 ## Upcoming Events
 
-The last MASQUE WG meeting took place virtually during [IETF 111](https://datatracker.ietf.org/doc/agenda-111-masque/). The next WG meeting has not yet been scheduled.
+The last MASQUE WG meeting took place virtually during [IETF 112](https://datatracker.ietf.org/doc/agenda-111-masque/). The next WG meeting has not yet been scheduled.
 
 ## Documents
 
