@@ -11,8 +11,8 @@ The next MASQUE WG meeting will take place during [IETF 115](https://datatracker
 
 Our current Working Group documents are below.
 
-- CONNECT-UDP HTTP Method: [RFC9298](https://www.rfc-editor.org/rfc/rfc9298.html)
-- Using Datagrams with HTTP: [RFC9297](https://www.rfc-editor.org/rfc/rfc9298.html)
+- Proxying UDP in HTTP: [RFC9298](https://www.rfc-editor.org/rfc/rfc9298.html)
+- UHTTP Datagrams and the Capsule Protocol: [RFC9297](https://www.rfc-editor.org/rfc/rfc9298.html)
 - IP Proxying Support for HTTP: [Editor's Draft](https://ietf-wg-masque.github.io/draft-ietf-masque-connect-ip/#go.draft-ietf-masque-connect-ip.html) / [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-masque-connect-ip) / [Repo](https://github.com/ietf-wg-masque/draft-ietf-masque-connect-ip) / [Open Issues](https://github.com/ietf-wg-masque/draft-ietf-masque-connect-ip/issues) / [Interop Status](#)
 - Requirements for a MASQUE Protocol to Proxy IP Traffic: [Editor's Draft](https://ietf-wg-masque.github.io/draft-ietf-masque-ip-proxy-reqs/draft-ietf-masque-ip-proxy-reqs.html) / [WG Draft](https://datatracker.ietf.org/doc/draft-ietf-masque-ip-proxy-reqs/) / [Repo](https://github.com/ietf-wg-masque/draft-ietf-masque-ip-proxy-reqs) / [Open Issues](https://github.com/ietf-wg-masque/draft-ietf-masque-ip-proxy-reqs/issues)
 
