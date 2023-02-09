@@ -5,7 +5,7 @@ title: MASQUE Working Group
 
 ## Upcoming Events
 
-The next MASQUE WG meeting will take place during [IETF 115](https://datatracker.ietf.org/doc/agenda-115-masque/) on November 9, 2022.
+The next MASQUE WG meeting will take place during [IETF 116](https://datatracker.ietf.org/doc/agenda-116-masque/).
 
 ## Documents
 
